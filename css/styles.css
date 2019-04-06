@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    /*background-image: url("../img/bg.png");*/
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    /*background-size: cover;*/
+    /*background-position: center top;*/
+    /*background-repeat: no-repeat;*/
+}
+
+.grid{
+    width: 1170px;
+    margin: 0 auto;
+}
+
+/*.clearfix:after{*/
+    /*content: '';*/
+    /*display: block;*/
+    /*clear: both;*/
+/*}*/
